@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header sc.jpeg" width="1000">
+</p>
+
 # Scriptorium
 Scriptorium is a self-study app built for independent learners. It runs as an installable web app (PWA) on iPhone, with a dark academia aesthetic designed to make long study sessions feel calm and focused.
  
